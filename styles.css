@@ -12,7 +12,7 @@
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
 html{scroll-behavior:smooth}
 body{font-family:var(--font);color:var(--ink);background:#e9eaee;line-height:1.45;-webkit-text-size-adjust:100%}
-.app{max-width:430px;margin:0 auto;min-height:100vh;background:#fff;padding:14px 14px 130px;position:relative}
+.app{max-width:430px;margin:0 auto;min-height:100vh;background:#fff;padding:14px 14px 200px;position:relative}
 button{font-family:inherit;cursor:pointer}
 a{color:inherit}
 :focus-visible{outline:3px solid #3b82f6;outline-offset:2px}
